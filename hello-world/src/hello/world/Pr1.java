@@ -9,5 +9,5 @@ package hello.world;
  * @author 6DAWT
  */
 public class Pr1 {
-    
+    System.out.println("Prueba1 Practica 5 parte2");
 }
